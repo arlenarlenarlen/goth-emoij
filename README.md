@@ -9,3 +9,6 @@ Like the gold stars you used to get in primary school, only black.
 ## Heart
 ![heart](https://github.com/arlenarlenarlen/goth-emoij/raw/master/heart_goth.png)\
 Finally, an emoji heart that matches yours.
+## Rainbow
+![rainbow](https://github.com/arlenarlenarlen/goth-emoij/raw/master/rainbow_goth.png)\
+Anti-rainbow queer pride.
